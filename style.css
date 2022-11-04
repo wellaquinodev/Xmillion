@@ -9,8 +9,8 @@
     font-family: 'Roboto';
     font-size: 18px;
 }
-header {
-    width: 99%;
+/* header {
+    width: 100vw;
     display: flex;
     justify-content: space-around;
     text-align: center;
@@ -19,7 +19,7 @@ header {
     height: 80px;
 }
 header a {
-font-weight: 700;
+    font-weight: 700;
 
     display: flex;
     align-items: center;
@@ -45,4 +45,4 @@ font-weight: 700;
 .nav-item a {
     color: black;
     font-size: 18px;
-}
+} */
